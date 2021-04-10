@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/latian2/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/latian2/static/js/main.311544cd.chunk.js",
-    "main.js.map": "/latian2/static/js/main.311544cd.chunk.js.map",
+    "main.js": "/latian2/static/js/main.67b0d6c8.chunk.js",
+    "main.js.map": "/latian2/static/js/main.67b0d6c8.chunk.js.map",
     "runtime-main.js": "/latian2/static/js/runtime-main.36df5225.js",
     "runtime-main.js.map": "/latian2/static/js/runtime-main.36df5225.js.map",
     "static/js/2.6d81edeb.chunk.js": "/latian2/static/js/2.6d81edeb.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.36df5225.js",
     "static/js/2.6d81edeb.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.311544cd.chunk.js"
+    "static/js/main.67b0d6c8.chunk.js"
   ]
 }

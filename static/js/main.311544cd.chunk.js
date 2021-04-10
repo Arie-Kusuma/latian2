@@ -1,2 +1,0 @@
-(this.webpackJsonplatian2=this.webpackJsonplatian2||[]).push([[0],{4:function(n,t,e){"use strict";e.r(t);e(0);var c=e(3),s=e.n(c),a=(e(9),e(2));function i(){return Object(a.jsx)("h1",{children:"asu"})}s.a.render(Object(a.jsx)(i,{}),document.getElementById("root"))},9:function(n,t,e){}},[[4,1,2]]]);
-//# sourceMappingURL=main.311544cd.chunk.js.map
