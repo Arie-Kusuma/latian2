@@ -1,0 +1,2 @@
+(this.webpackJsonplatian2=this.webpackJsonplatian2||[]).push([[0],{4:function(t,n,e){"use strict";e.r(n);e(0);var c=e(3),a=e.n(c),r=e(2);function s(){return Object(r.jsx)("h1",{children:"coba"})}a.a.render(Object(r.jsx)(s,{}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.cf56eb74.chunk.js.map
