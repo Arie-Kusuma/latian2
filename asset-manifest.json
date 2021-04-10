@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/latian2/static/js/main.cf56eb74.chunk.js",
-    "main.js.map": "/latian2/static/js/main.cf56eb74.chunk.js.map",
+    "main.css": "/latian2/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/latian2/static/js/main.8286746c.chunk.js",
+    "main.js.map": "/latian2/static/js/main.8286746c.chunk.js.map",
     "runtime-main.js": "/latian2/static/js/runtime-main.36df5225.js",
     "runtime-main.js.map": "/latian2/static/js/runtime-main.36df5225.js.map",
-    "static/js/2.fc1dd97e.chunk.js": "/latian2/static/js/2.fc1dd97e.chunk.js",
-    "static/js/2.fc1dd97e.chunk.js.map": "/latian2/static/js/2.fc1dd97e.chunk.js.map",
+    "static/js/2.6d81edeb.chunk.js": "/latian2/static/js/2.6d81edeb.chunk.js",
+    "static/js/2.6d81edeb.chunk.js.map": "/latian2/static/js/2.6d81edeb.chunk.js.map",
     "index.html": "/latian2/index.html",
-    "static/js/2.fc1dd97e.chunk.js.LICENSE.txt": "/latian2/static/js/2.fc1dd97e.chunk.js.LICENSE.txt"
+    "static/css/main.6dea0f05.chunk.css.map": "/latian2/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6d81edeb.chunk.js.LICENSE.txt": "/latian2/static/js/2.6d81edeb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.36df5225.js",
-    "static/js/2.fc1dd97e.chunk.js",
-    "static/js/main.cf56eb74.chunk.js"
+    "static/js/2.6d81edeb.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8286746c.chunk.js"
   ]
 }
